@@ -35,7 +35,6 @@ public class Bai4 {
 		inDaySo(a);
 		
 		System.out.println("Min của dãy số là: " + min(a));
-
 	}
 
 }
